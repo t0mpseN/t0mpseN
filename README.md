@@ -1,6 +1,6 @@
-# Pedro Tompsen
+# 👋 Greetings,
 
-Civil engineering undergrad from Brazil 🇧🇷. I code as a hobby — I build things I personally want or need, and put them out there in case they're useful to someone else too. My interests shift a lot, so don't expect a theme.
+I'm a 24 year old civil engineering undergrad from Brazil 🇧🇷. I code as a hobby — I build things I personally want or need, and put them out there in case they're useful to someone else too. My interests shift a lot, so don't expect a theme.
 
 That said, a good chunk of my public work has been around Japanese 🇯🇵 learning, since that's where my curiosity has been sitting for a while.
 
